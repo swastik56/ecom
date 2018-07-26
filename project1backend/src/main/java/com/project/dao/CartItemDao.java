@@ -8,4 +8,5 @@ public interface CartItemDao {
 	void clearAllCartItems(String email);
     User getUser(String email);
 	//CustomerOrder createOrder(User user);
+    
 }
